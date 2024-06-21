@@ -1,0 +1,6 @@
+Majeed Yasir Ali Majeed
+
+task1 = Python
+task2 = C++
+task3 = Python
+task4 = C++
